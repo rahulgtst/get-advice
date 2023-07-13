@@ -1,6 +1,6 @@
-# Rock Paper Scissor Game
+# Advice Generator App
 
-![](./screenshot.png)
+![](./screenshot.jpeg)
 
 ### Links
 
